@@ -10,4 +10,4 @@
 
 # 安装教程
 
-&emsp;&emsp;🔗教程链接：[风卷残云：基于GitHub和Jsdelivr实现的高速图床 - 勿埋我心 (qian.blue)](https://www.qian.blue/archives/GitHub_ImgBed.html)
+&emsp;&emsp;🔗教程链接：[搭建烟雨图床:基于GitHub和Jsdelivr实现的在线图床](http://wink.winkxrq.tk/articles/2021/06/20/1624190441187.html)
